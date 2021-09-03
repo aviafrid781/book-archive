@@ -1,0 +1,10 @@
+.background-color{
+    background-color:#008080;
+}
+.button-color{
+    background-color: hsl(64, 98%, 50%);
+    color: hsl(231, 100%, 55%);
+}
+.color{
+    color: rgb(245, 241, 16);
+}
